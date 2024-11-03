@@ -1,0 +1,14 @@
+{
+    "name": "Electric Car",
+    "year": 2023,
+    "price": 45999.99,
+    "is_available": true,
+    "features": ["Bluetooth", "Navigation", "Heated Seats"],
+    "dimensions": {
+        "length": 4.7,
+        "width": 1.8,
+        "height": 1.4
+    },
+    "mileage": null,
+    "ratings": [5, 4.5, 4.7, 5]
+}
