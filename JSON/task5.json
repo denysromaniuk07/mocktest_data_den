@@ -1,0 +1,44 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2020,
+        "price": 24000,
+        "electric": false
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "price": 55000,
+        "electric": false
+    },
+    {
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2022,
+        "price": 39999,
+        "electric": true
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Bolt",
+        "year": 2019,
+        "price": 36500,
+        "electric": true
+    },
+    {
+        "make": "Honda",
+        "model": "Accord",
+        "year": 2023,
+        "price": 28000,
+        "electric": false
+    },
+    {
+        "make": "Nissan",
+        "model": "Leaf",
+        "year": 2021,
+        "price": 31000,
+        "electric": true
+    }
+]
